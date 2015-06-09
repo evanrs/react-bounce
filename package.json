@@ -1,0 +1,23 @@
+{
+  "name": "react-bounce",
+  "version": "0.0.0",
+  "description": "A modal on mouse out to increase converstion rates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanrs/react-bounce.git"
+  },
+  "keywords": [
+    "react",
+    "modal"
+  ],
+  "author": "Evan Schneider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanrs/react-bounce/issues"
+  },
+  "homepage": "https://github.com/evanrs/react-bounce#readme"
+}
